@@ -15,8 +15,7 @@
 #define Demora_cola						1  /* Sampst 1: Demora en cola						*/
 
 /* Declaraci¢n de variables propias */
-float media_interarribo_host, media_interarribo_srv, media_interarribo_error, media_servicio_host;
-float media_servicio_srv, media_servicio_host;
+float media_interarribo_host, media_interarribo_srv, media_interarribo_error, media_servicio_host, media_servicio_srv;
 int hostusados[6];
 
 
